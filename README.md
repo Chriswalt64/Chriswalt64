@@ -3,7 +3,8 @@
 
 I am a full time developer at the University of Kentucky working with ABAP. I also mess around with a bunch of other technologies like Python.
 
-![My Image](https://octodex.github.com/images/yaktocat.png)
+![My Image](
+Background Black and White.jpg)
 
 <!--
 **Chriswalt64/Chriswalt64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
